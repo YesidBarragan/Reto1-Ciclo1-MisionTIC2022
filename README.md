@@ -7,7 +7,7 @@ Calculadora de ganancias
 * Ingrese el costo unitario del producto CU: 
 * Ingrese el precio de venta al publico PVP: 
 * Ingrese la cantidad de unidades disponibles:
-
+* 
 * Producto 
 * CU: $
 * PVP: $
