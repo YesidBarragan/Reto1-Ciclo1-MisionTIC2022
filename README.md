@@ -1,7 +1,7 @@
 # Reto1-Ciclo1-MisionTIC2022
 Reto 1 Ciclo 1 MisionTic 2022 Python
 
-* Calculadora de ganancias
+Calculadora de ganancias
 
 * Ingrese el nombre del producto: 
 * Ingrese el costo unitario del producto CU: 
