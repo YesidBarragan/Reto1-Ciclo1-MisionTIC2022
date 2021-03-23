@@ -7,7 +7,7 @@ Reto 1 Ciclo 1 MisionTic 2022 Python
 * Ingrese el costo unitario del producto CU: 
 * Ingrese el precio de venta al publico PVP: 
 * Ingrese la cantidad de unidades disponibles:
-* 
+
 * Producto 
 * CU: $
 * PVP: $
